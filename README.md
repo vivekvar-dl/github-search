@@ -26,4 +26,5 @@ A web app that allows users to search for GitHub profiles and view their public 
    ```bash
    npm run
 
+
    
